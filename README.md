@@ -1,6 +1,7 @@
 # BookingGo Techincal Test Submission
 
 ## Setup
+This was done with node version `11.8.0` and npm `6.5.0`
 
 Clone repository and `npm install`
 
